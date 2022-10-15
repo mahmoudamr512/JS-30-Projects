@@ -28,13 +28,13 @@ In every project, I made some TODO comments to be able to track the new updates 
 ## Finished Projects:
 
 * [X] JS Drum Kit
-* [] CSS + JS Clock
-* [] Playing with CSS Vars and JS
-* [] Array Cardio Day 1
-* [] Flex Panels Image Gallery
-* [] Ajax Type Ahead
-* [] Array Cardio Day 2
-* [] Fun with HTML5 Canvas
+* [ ] CSS + JS Clock
+* [ ] Playing with CSS Vars and JS
+* [ ] Array Cardio Day 1
+* [ ] Flex Panels Image Gallery
+* [ ] Ajax Type Ahead
+* [ ] Array Cardio Day 2
+* [ ] Fun with HTML5 Canvas
 
 ## Background & Contact Info: 
 ---
@@ -50,7 +50,7 @@ Yet again, I love to work on:
 * Full-stack projects (PHP as backend, WP or laravel and for frotend VueJS or Angular or Native Vanilla JS)
 * RPA (My passion)
 * Data Engineering and Scraping/Extracting
-
+ 
 You can easily reach me out on a lot of platforms:
 * [**Personal Website**](mahmoudamr.dev)
 * [**Upwork**](https://www.upwork.com/freelancers/~01b01927870b2d2297)
