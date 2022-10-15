@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Key Detection</title>
+  <script type="text/javascript" src="https://www.cornify.com/js/cornify.js"></script>
+</head>
+<body>
+<script>
+
+    const input = []
+    const sequence = "wiswig"
+    function sequenceDetection(e) {
+        input.push(e.key)
+        input.splice(-sequence.length-1, input.length - sequence.length)
+        if (input.join('').includes(sequence))
+            cornify_add();
+    }
+    window.addEventListener('keyup', sequenceDetection)
+</script>
+</body>
+</html>
