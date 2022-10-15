@@ -47,9 +47,9 @@ While I tried a lot of techs & languages, I am most interested in Software Engin
 
 Yet again, I love to work on: 
 
-* Full-stack projects (PHP as backend, WP or laravel and for frotend VueJS or Angular or Native Vanilla JS)
-* RPA (My passion)
-* Data Engineering and Scraping/Extracting
+* ***Full-stack projects (PHP as backend, WP or laravel and for frotend VueJS or Angular or Native Vanilla JS)***
+* ***RPA (My passion)***
+* ***Data Engineering and Scraping/Extracting***
  
 You can easily reach me out on a lot of platforms:
 * [**Personal Website**](mahmoudamr.dev)
